@@ -61,7 +61,7 @@ function Header() {
          <menu>
             <h2>Examples</h2>
             <ul className='tabList' style={{listStyleType: 'none' , padding: 0 , display: 'flex', columnGap: '10px', borderRadius:'3px'}}>  
-              <TabButton id={1} content={"Merhaba ilk denememiz bu"}/>
+              <TabButton id={1} content={"Merhaba ilk denememiz bakalım ilk commit de ne olacak"}/>
               <TabButton id={2} content={"Merhaba ilk denememiz bu1"}/>
               <TabButton id={3} content={"Merhaba ilk denememiz bu2"}/>
               <TabButton id={4} content={"Merhaba ilk denememiz bu3"}/>
