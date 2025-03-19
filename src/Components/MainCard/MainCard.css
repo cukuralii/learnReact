@@ -1,0 +1,17 @@
+.mainCard{
+    display: grid;
+    grid-template-rows: 1fr 4fr;
+    gap: 10px;
+    padding: 20px;
+  }
+  .mainCardHead{
+    display: flex;
+    justify-content: center;
+  }
+
+  .mainCardContent{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: space-around;
+  }
